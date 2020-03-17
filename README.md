@@ -12,3 +12,5 @@ I am happy for you to have a look at the project
 
 *Important information to have in mind*  
 * This project is for bluesky
+
+*IMAGES*
