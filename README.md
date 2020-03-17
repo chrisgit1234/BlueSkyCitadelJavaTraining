@@ -1,5 +1,4 @@
 # BlueSkyCitadelJavaTraining
+Training document
 
- ##Training document
- 
-###Useful information
+Useful information
