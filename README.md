@@ -8,6 +8,5 @@ I am happy for you to have a look at the project
 
 **Instructions**
 
-*Important information to have in mind*
-
+*Important information to have in mind*  
 * This project is for bluesky
